@@ -1,6 +1,6 @@
 # Insta-Bot-Using-Selenium-Python
 InstaBot Introduction - Part 1
-Your friend has opened a new Food Blogging handle on Instagram and wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so he asks you to help him. As you have just learned automation using Selenium, you decided to help him by creating an Instagram Bot.
+My friend has opened a new Food Blogging handle on Instagram and wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so he asks me to help him. As i have just learned automation using Selenium, i decided to help him by creating an Instagram Bot.
 You need to create different functions for each task.
 Note :
 Don’t forget to remove your Username and Password from the python notebook before submission.
